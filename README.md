@@ -35,7 +35,7 @@ We thank SELAE (Sociedad Española de Loterias y Apuestas del Estado), as the ow
 <h2>Inspiration</h2>
 We have been inspired by a friend startup who created a service to expand the Lottery gaming into neighborhood associations.
 <h2>License</h2>
-<p><b>This code is shared under the license: CC0: Public domain license</b></p>
+<p>This code is shared under the license: <b>CC0: Public domain license</b></p>
 <h2>Resources</h2>
 <p>[1] Richard Lawson (2015), “Web Scraping with Python”. Chapter 1. Ed. Packt Publishing</p>
 <p>[2] L.Subirats, M.Calvo. (2018), "Web Scraping". UOC</p>

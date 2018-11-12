@@ -9,6 +9,12 @@ For each update, our customer will update the info in their digital publications
 The draws of La Primitiva take place on Thursdays (9:40 pm) and Saturdays (9:40 pm). El Gordo de la Primitiva (which is a Premium draw) is raffled on Sunday (9:30 p.m.).
 The official website where the La Primitiva results are published is <a href="https://www.loteriasyapuestas.es">Loterias y Apuestas del Estado</a> which belongs to a Spanish Government Company.
 <h2>Contents</h2>
+<p>Folders:</p>
+<p><ul>
+  <li>src: Python scripts</li>
+  <li>pdf: Details of the task developed and image files</li>
+  <li>csv: example of lottery results extracted in csv format</li>
+</ul></p>
 <p>The data extracted is stored into a CSV file with the following fields:</p>
 <p><ul>
   <li>Lottery: 'Classic', 'ElGordo'</li>

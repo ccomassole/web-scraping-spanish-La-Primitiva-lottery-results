@@ -1,4 +1,4 @@
-<p align="center"><img width="690" height="308" src="https://github.com/ccomassole/web-scraping-spanish-lottery-results/blob/master/pdf/loteriaprimitiva.jpg"></p>
+<p align="center"><img width="690" height="308" src="https://github.com/ccomassole/web-scraping-spanish-La-Primitiva-lottery-results/blob/master/pdf/loteriaprimitiva.jpg"></p>
 <h2>LoteriaPrimitivaResults</h2>
 First Experience of web scraping. Developing a script for results extraction of Spanish’s La Primitiva lottery from the Official Website: <a href="https://www.loteriasyapuestas.es">Loterias y Apuestas del Estado</a>.
 <h2>Members</h2>
